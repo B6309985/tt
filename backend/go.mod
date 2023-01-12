@@ -1,4 +1,4 @@
-module github.com/B6309985/sa-65-example
+module github.com/B6309985/tt
 
 go 1.19
 
